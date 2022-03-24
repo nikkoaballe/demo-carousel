@@ -2,6 +2,7 @@ body {
 
 	font-family: 'Montserrat', sans-serif;
 	background: #fff;
+
 }
 a {
   text-decoration: none;
@@ -80,20 +81,20 @@ a {
 	font-weight: 100;
 }
 .one {
-	background: url('https://source.unsplash.com/900x920');
+	background-image: url('https://i.ibb.co/QjzPgx9/hero1.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
 }
 
 .two {
-	background: url('https://source.unsplash.com/820x900');
+	background: url('https://i.imgur.com/UQOuL5w.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
 }
 .three {
-	background: url('https://source.unsplash.com/500x500');
+	background: url('https://i.imgur.com/5KwFiO4.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;

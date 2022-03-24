@@ -1,9 +1,22 @@
 body {
 	font-family: 'Montserrat', sans-serif;
-	background: #3f3b7a;
+	background: #262262;
+	display:block;
+	margin:0;
+	padding:0;
 }
 a {
   text-decoration: none;
+}
+.action-button{
+	margin-top:15px;
+	padding-bottom: 150px;
+	background:#ed1c24;
+	padding:10px;
+	color:white;
+}
+.action-button > a{
+	font-weight: 500;
 }
 .conatiner {
 	width: 100%;
@@ -26,6 +39,8 @@ a {
 	-webkit-box-direction: normal;
 	    -ms-flex-direction: row;
 	        flex-direction: row;
+	margin-bottom:50px;
+	padding: 0;
 }
 
 .box {

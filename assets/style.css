@@ -1,6 +1,9 @@
 body {
 	font-family: 'Montserrat', sans-serif;
 	background: #262262;
+	background-image:url('../images/ausome-background.png');
+	background-repeat: no-repeat;
+	background-size: cover;
 	display:block;
 	margin:0;
 	padding:0;
